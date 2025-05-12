@@ -58,7 +58,7 @@ CAP offers a streamlined workflow for processing and analyzing MGCM data product
 
 CAP is the first software package to provide data visualization, file manipulation, variable derivation, and inter-model or model-observation comparison features in one software suite. Existing tools perform a subset of the functions that CAP offers, but none of them provide both complex data analysis tools and visualization, nor are they specifically designed for climate modeling. Some of the more popular tools include Panoply [@Schmunk2024], Ncview [@Pierce2024], Grid Analysis and Display System (GrADS; @GMU), and Paraview [@Kitware2023]. Each tool offers simple solutions for visualizing NetCDF data and some provide minimal flexibility for user-defined computations. However, CAP is the only software package with an open-source Python framework for analyzing and plotting climate data and performing inter-model and model-observation comparisons.
 
-CAP has been used in multiple research projects that have been published and/or presented at conferences worldwide (e.g., [@Urata2025, @Batterson2023, @Hartwick2022a, @Hartwick2022b, @Steakley2023, @Steakley2024, @Kahre2022, @Kahre2023, @Nagata2025, @Hartwick2024]).
+CAP has been used in multiple research projects that have been published and/or presented at conferences worldwide (e.g., [@Urata2025; @Batterson2023; @Hartwick2022a; @Hartwick2022b; @Steakley2023; @Steakley2024; @Kahre2022; @Kahre2023; @Nagata2025; @Hartwick2024]).
 
 # Functionality
 
